@@ -1,0 +1,44 @@
+#tombolone {
+    width: 43rem;
+    margin: auto;
+}
+
+#tombolone div{
+    display: inline-block;
+    width: 4em;
+    height: 4em;
+    border: 3px inset black;
+    margin-right: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+form {
+    width: 50rem;
+    margin: auto;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+#estrai{
+    width: 8em;
+    height: 3em;
+    border-radius: 10%;
+    background-color: aquamarine;
+    border-style: none;
+}
+
+.span{
+    font-size: 1.5em;;
+}
+
+#div1 {
+    width: 50rem;
+    margin: auto;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+
+.highlight{
+    background-color: red;
+}
